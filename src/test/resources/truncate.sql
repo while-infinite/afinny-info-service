@@ -1,0 +1,3 @@
+TRUNCATE TABLE bank_branch CASCADE;
+TRUNCATE TABLE exchange_rate CASCADE;
+TRUNCATE TABLE error_message CASCADE;

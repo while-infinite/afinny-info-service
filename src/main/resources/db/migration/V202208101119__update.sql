@@ -1,0 +1,1 @@
+ALTER TABLE bank_branch ADD COLUMN if not exists replenish_without_card BOOLEAN NOT NULL DEFAULT false;
